@@ -1,3 +1,3 @@
-module github.com/Yandex-Practicum/sprint9-final
+module go1fl-sprint9-final-tpl
 
-go 1.24.1
+go 1.22
